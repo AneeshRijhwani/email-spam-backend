@@ -1,0 +1,7 @@
+Flask
+nltk
+pandas
+numpy
+sklearn
+gunicorn
+typing-extensions
