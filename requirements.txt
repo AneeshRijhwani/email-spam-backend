@@ -2,6 +2,6 @@ Flask
 nltk
 pandas
 numpy
-sklearn
+scikit-learn
 gunicorn
 typing-extensions
